@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Royal Blue - Yacht Services</title>
+    <style>
+        :root {
+            --primary-blue: #002347; /* Color sugerido por el nombre Royal Blue */
+            --accent-gold: #c5a059;
+            --text-light: #ffffff;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        /* Hero Section usando imágenes del manifest */
+        .hero {
+            height: 100vh;
+            background: linear-gradient(rgba(0,35,71,0.6), rgba(0,35,71,0.6)), 
+                        url('https://web.moxcreative.com/royalblue/wp-content/uploads/sites/25/2023/03/Heading-1-1728x960.jpg');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: var(--text-light);
+            text-align: center;
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            max-width: 600px;
+        }
+
+        .btn {
+            margin-top: 20px;
+            padding: 12px 30px;
+            background-color: var(--accent-gold);
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        nav {
+            position: absolute;
+            top: 0;
+            width: 100%;
+            padding: 20px;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            background: rgba(0,0,0,0.2);
+        }
+
+        .logo img {
+            max-height: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <div class="logo">
+            <img src="https://web.moxcreative.com/royalblue/wp-content/uploads/sites/25/2023/03/logo_royalblue.png" alt="Royal Blue Logo">
+        </div>
+        <div style="color: white;">
+            <span>Charter</span> | <span>Destinations</span> | <span>About Us</span>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <h1>Royal Blue</h1>
+        <p>Template kit for Yacht Services - Elementor Optimized</p>
+        <a href="https://web.moxcreative.com/royalblue/template-kit/homepage/" class="btn">Ver Demo Oficial</a>
+    </header>
+
+</body>
+</html>

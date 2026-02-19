@@ -1,0 +1,1633 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Royal Blue - Template kit for Yacht Services",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/web.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Charter",
+            "screenshot": "screenshots\/charter.jpg",
+            "source": "templates\/charter.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/template-kit\/charter\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Destinations",
+            "screenshot": "screenshots\/destinations.jpg",
+            "source": "templates\/destinations.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/template-kit\/destinations\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "RoyalBlue - Error 404",
+            "screenshot": "screenshots\/royalblue-error-404.jpg",
+            "source": "templates\/royalblue-error-404.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/?elementor_library=royalblue-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "RoyalBlue - Single post",
+            "screenshot": "screenshots\/royalblue-single-post.jpg",
+            "source": "templates\/royalblue-single-post.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/?elementor_library=royalblue-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "RoyalBlue - Archive Blog",
+            "screenshot": "screenshots\/royalblue-archive-blog.jpg",
+            "source": "templates\/royalblue-archive-blog.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/?elementor_library=royalblue-archive-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "RoyalBlue - Footer",
+            "screenshot": "screenshots\/royalblue-footer.jpg",
+            "source": "templates\/royalblue-footer.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/?elementor_library=royalblue-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "RoyalBlue - Header",
+            "screenshot": "screenshots\/royalblue-header.jpg",
+            "source": "templates\/royalblue-header.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/royalblue\/?elementor_library=royalblue-logo",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.5",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.5",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.12.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Heading-1.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/Heading-1-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 272440,
+            "dimensions": [
+                1728,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/aerial-view-of-sailing-ship-yachts-with-white-sail-DE4PCUA"
+        },
+        {
+            "filename": "Heading-2.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/Heading-2-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 476005,
+            "dimensions": [
+                1728,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/aerial-view-of-luxury-yacht-sailing-on-a-blue-sea-7Y4D39A"
+        },
+        {
+            "filename": "Heading-3.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/Heading-3-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 223093,
+            "dimensions": [
+                1728,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/aerial-view-of-a-catamaran-yacht-in-the-blue-sea-y-QQJ5AVC"
+        },
+        {
+            "filename": "Heading-4.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/Heading-4-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 416622,
+            "dimensions": [
+                1728,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adriatic-sea-surrounding-rovinj-with-yacht-driftin-766P9WT"
+        },
+        {
+            "filename": "027-anchor-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/027-anchor-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2177,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nautical-icons-N6BKRVT"
+        },
+        {
+            "filename": "039-ship-wheel-1-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/039-ship-wheel-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1472,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nautical-icons-N6BKRVT"
+        },
+        {
+            "filename": "038-snorkel-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/038-snorkel-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1949,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nautical-icons-N6BKRVT"
+        },
+        {
+            "filename": "bg_memphis_1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/bg_memphis_1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 44565,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "luxury_yacht1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/luxury_yacht1-800x481.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 103498,
+            "dimensions": [
+                1080,
+                650
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/super-luxury-motor-yacht-YG7JL2A"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 2063,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 1811,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 2300,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 1900,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bg_img_2.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/bg_img_2-800x517.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 20198,
+            "dimensions": [
+                1728,
+                1117
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "050-frigate-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/050-frigate-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2188,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nautical-icons-N6BKRVT"
+        },
+        {
+            "filename": "039-ship-wheel-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/039-ship-wheel-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2850,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nautical-icons-N6BKRVT"
+        },
+        {
+            "filename": "026-hook-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/026-hook-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1374,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nautical-icons-N6BKRVT"
+        },
+        {
+            "filename": "030-Paddles-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/030-Paddles-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2227,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nautical-icons-N6BKRVT"
+        },
+        {
+            "filename": "036-map-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/036-map-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2278,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nautical-icons-N6BKRVT"
+        },
+        {
+            "filename": "041-placeholder-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/041-placeholder-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2248,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nautical-icons-N6BKRVT"
+        },
+        {
+            "filename": "035-shell-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/035-shell-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2221,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nautical-icons-N6BKRVT"
+        },
+        {
+            "filename": "bg_img.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/bg_img-800x517.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 20886,
+            "dimensions": [
+                1728,
+                1117
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "aerial-view-of-beautiful-luxury-yacht-and-boat-in-blue-sea-e1680253784884.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/aerial-view-of-beautiful-luxury-yacht-and-boat-in-blue-sea-e1680253784884-800x555.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/royalblue-archive-blog.json",
+                    "name": "RoyalBlue - Archive Blog"
+                }
+            ],
+            "filesize": 201515,
+            "dimensions": [
+                1038,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-3EQ2XY3"
+        },
+        {
+            "filename": "aerial-view-of-a-catamaran-yacht-in-the-blue-sea-yachting-luxury-vacation-at-sea.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/aerial-view-of-a-catamaran-yacht-in-the-blue-sea-yachting-luxury-vacation-at-sea-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 151367,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QQJ5AVC"
+        },
+        {
+            "filename": "aerial-view-of-luxury-yacht-on-blue-sea-at-sunny-day-in-summer.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/aerial-view-of-luxury-yacht-on-blue-sea-at-sunny-day-in-summer-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 169480,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6FNPSG3"
+        },
+        {
+            "filename": "yacht-sailing-at-sunset-during-a-storm-luxury-vacation-at-sea.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/yacht-sailing-at-sunset-during-a-storm-luxury-vacation-at-sea-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 157497,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4ZRVE65"
+        },
+        {
+            "filename": "sailing-yacht-in-lefkada-greece.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/sailing-yacht-in-lefkada-greece-800x1065.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 215877,
+            "dimensions": [
+                1280,
+                1704
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZGNS3KR"
+        },
+        {
+            "filename": "luxurious-yacht-floating-on-deep-sea-waters-on-background-of-the-blue.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/luxurious-yacht-floating-on-deep-sea-waters-on-background-of-the-blue-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 150910,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-H57PQQ4"
+        },
+        {
+            "filename": "yacht-on-the-azure-seashore-in-balearic-islands.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/yacht-on-the-azure-seashore-in-balearic-islands-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 176943,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-3SXTA6R"
+        },
+        {
+            "filename": "motor-yacht.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/motor-yacht-800x530.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 249258,
+            "dimensions": [
+                1280,
+                848
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7CR9VK"
+        },
+        {
+            "filename": "aerial-view-of-luxury-yachts-in-transparent-blue-sea.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/aerial-view-of-luxury-yachts-in-transparent-blue-sea-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 184666,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CADSHKG"
+        },
+        {
+            "filename": "couple-having-fun-on-luxury-yacht-enjoying-boat-tour-outdoors.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/couple-having-fun-on-luxury-yacht-enjoying-boat-tour-outdoors-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 153777,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NVNXL37"
+        },
+        {
+            "filename": "img__0003_Layer-5.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/img__0003_Layer-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 47988,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-freckled-teenager-wears-round-transparent-g-EPRUCGN"
+        },
+        {
+            "filename": "img__0007_Layer-1.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/img__0007_Layer-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 42410,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        },
+        {
+            "filename": "img__0000_Layer-8.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/img__0000_Layer-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 33914,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/optimistic-positive-handsome-bearded-man-FXXXGY4"
+        },
+        {
+            "filename": "luxury-motor-yacht-on-the-ocean.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/luxury-motor-yacht-on-the-ocean-800x418.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 78318,
+            "dimensions": [
+                1280,
+                668
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y8BEBGN"
+        },
+        {
+            "filename": "aerial-view-of-fishing-boats-rocks-in-the-blue-sea-e1680253820519.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/aerial-view-of-fishing-boats-rocks-in-the-blue-sea-e1680253820519-800x623.jpg",
+            "templates": [
+                {
+                    "source": "templates\/charter.json",
+                    "name": "Charter"
+                }
+            ],
+            "filesize": 127950,
+            "dimensions": [
+                924,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMBJQKD"
+        },
+        {
+            "filename": "aerial-view-of-boats-and-luxury-yachts-in-transparent-blue-sea-e1680253852803.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/aerial-view-of-boats-and-luxury-yachts-in-transparent-blue-sea-e1680253852803-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 227882,
+            "dimensions": [
+                1080,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HSJRMAN"
+        },
+        {
+            "filename": "aerial-view-from-above-at-the-luxury-yachts-in-the-marina.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/aerial-view-from-above-at-the-luxury-yachts-in-the-marina-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 257316,
+            "dimensions": [
+                1280,
+                959
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E3TUXZH"
+        },
+        {
+            "filename": "Asia.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/Asia.png",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 20541,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "North-America.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/North-America.png",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 23182,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "South-America.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/South-America.png",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 8566,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Africa.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/Africa.png",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 9306,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Ocenia.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/Ocenia.png",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 8910,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Europe.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/Europe.png",
+            "templates": [
+                {
+                    "source": "templates\/destinations.json",
+                    "name": "Destinations"
+                }
+            ],
+            "filesize": 15679,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "motor-yacht-at-sea-yachting-luxury-sea-vacation-.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/motor-yacht-at-sea-yachting-luxury-sea-vacation--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 187507,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4VAHZ38"
+        },
+        {
+            "filename": "img__0004_Layer-4.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/img__0004_Layer-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 40613,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "img__0006_Layer-2.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/img__0006_Layer-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 50306,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-european-female-with-satisfie-W73EUUE"
+        },
+        {
+            "filename": "luxury-yacht-and-blue-sea-at-sunset-in-summer-aerial-view.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/luxury-yacht-and-blue-sea-at-sunset-in-summer-aerial-view-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 199021,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NPJYXLU"
+        },
+        {
+            "filename": "catamaran-yacht-in-aegean-sea.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/catamaran-yacht-in-aegean-sea-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 245420,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ASQAUDR"
+        },
+        {
+            "filename": "yachts-at-the-sea-surface-aerial-view-of-luxury-floating-boat-on-blue-water-at-sunny-day.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/yachts-at-the-sea-surface-aerial-view-of-luxury-floating-boat-on-blue-water-at-sunny-day-800x497.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 141240,
+            "dimensions": [
+                1280,
+                795
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M4AQEC5"
+        },
+        {
+            "filename": "img__0002_Layer-6.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/img__0002_Layer-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 58477,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/carefree-attractive-girl-with-pleasant-look-enjoys-4GXJZTE"
+        },
+        {
+            "filename": "img__0001_Layer-7.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/img__0001_Layer-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 41345,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/horizontal-shot-of-pleasant-looking-ginger-young-e-F9MBGAR"
+        },
+        {
+            "filename": "img__0005_Layer-3.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/img__0005_Layer-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 43481,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-confident-male-entrepreneur-with-postive-smi-BDAU9DK"
+        },
+        {
+            "filename": "yacht-at-the-sea-aerial-view-of-luxury-floating-ship.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/yacht-at-the-sea-aerial-view-of-luxury-floating-ship-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 180201,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P4JVKWG"
+        },
+        {
+            "filename": "sea-ocean-and-blue-clear-sky-background.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/sea-ocean-and-blue-clear-sky-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/royalblue-error-404.json",
+                    "name": "RoyalBlue - Error 404"
+                }
+            ],
+            "filesize": 140197,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PXANSVT"
+        },
+        {
+            "filename": "logo_royalblue.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/royalblue\/wp-content\/uploads\/sites\/25\/2023\/03\/logo_royalblue.png",
+            "templates": [
+                {
+                    "source": "templates\/royalblue-footer.json",
+                    "name": "RoyalBlue - Footer"
+                },
+                {
+                    "source": "templates\/royalblue-header.json",
+                    "name": "RoyalBlue - Header"
+                }
+            ],
+            "filesize": 12546,
+            "dimensions": [
+                554,
+                124
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
